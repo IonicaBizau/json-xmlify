@@ -13,7 +13,7 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/*.js"
   },
   "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "homepage": "https://github.com/IonicaBizau/json-xmlify#readme",
@@ -39,5 +39,8 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/json-xmlify/issues"
+  },
+  "devDependencies": {
+    "mocha": "^11.7.0"
   }
 }
