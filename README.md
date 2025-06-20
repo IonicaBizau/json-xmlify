@@ -36,6 +36,8 @@
 
 
 
+For the complementary package, see [`xml-jsonify`](https://github.com/IonicaBizau/xml-jsonify).
+
 
 
 
